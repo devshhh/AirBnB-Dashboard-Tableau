@@ -1,5 +1,5 @@
 # AirBnB-Dashboard-Tableau
-AirBnB-Dashboard-Tableau is a dashboard developed to visualize AirBnB prices in various locations of United States. The dataset used is of the year 2016-2017. The dashboard represents valuable insights to someone looking to buy a property that can be listed on AirBnB.
+While learning about Tableau, I came across a youtube video series from Alex the Analyst. At the end of the series, they guided in making a dashboard for AirBnB data. AirBnB-Dashboard-Tableau is a dashboard developed to visualize AirBnB prices in various locations of United States. The dataset used is of the year 2016-2017. The dashboard represents valuable insights to someone looking to buy a property that can be listed on AirBnB.
 
 # Visualization of the Dashboard
 
@@ -17,3 +17,11 @@ It provides a graph plot of the average price against a particular zipcode in de
 
 ## Revenue for Year(2016)
 It tells us that around which time of the year the prices for a property are higher and we can expect more bookings during which period of the year.
+
+# Dataset For the Project
+The dataset for the project can be accessed from the below link:
+https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset
+
+Moreover a follow along youtube video can be found from the below link:
+https://www.youtube.com/watch?v=zOR0-nygfDE&list=PLUaB-1hjhk8GwbqoVmo_5zuhOa0Tcl3xC&index=6
+
